@@ -1,4 +1,7 @@
 ### 在这呢 👋
+
+[Look in english](/README.md)
+
 我是 **Minecraft_652**,是一个很牛逼的开发者.  
 我在中国,这很牛逼.
 
