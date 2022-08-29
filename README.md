@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-This is Minecraft_652, a NB coder from China.
+This is Minecraft_652.
 
 At this time I'm major in Java and Solidity. But others also not bad. 🤗
 
